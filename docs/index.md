@@ -50,9 +50,9 @@ Scenario's:
 Kubenet uses a set of open source components to implement the target use cases. These components are listed in the next
 subchapters. 
 
-### [SDCIO](https://docs.sdcio.dev/)
+### [SDC](https://docs.sdcio.dev/)
 
-![SDCIO logo](https://docs.sdcio.dev/assets/logos/SDC-transparent-noname-100x100.png)
+![SDC logo](https://docs.sdcio.dev/assets/logos/SDC-transparent-noname-100x100.png)
 
 A SW component that maps a kubernetes manifest to a YANG based system.
 
