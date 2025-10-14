@@ -29,7 +29,7 @@ presentations and meeting recordings of Kubenet.
 * [Cloud Native Telco Day EU 2025 - Kubenet: Harnessing Kubernetes for Network Automation - Wim Henderickx & Ashan Senevirathne](https://www.youtube.com/watch?v=QipW3oOQNqw&list=PLj6h78yzYM2NGdnUvsyUPUZZ2Pm9Cn7FO&index=1)
 * [Autocon1 - Introduction of Kubenet by Wim on stage and interview by Packet Pushers](https://www.youtube.com/watch?v=L97fg1kYXTs)
 
-### SDCIO
+### SDC
 
 * [ONE Summit 2024 - Cloud Native YANG Mgmt - Wim Henderickx, Nokia](https://www.youtube.com/watch?v=dHOeqbqkN1s)
 * [KubeCon EU 2024 - How We Are Moving from GitOps to Kubernetes Resource Model in 5G Core - Joel Studler & Ashan Senevirathne, Swisscom](https://youtu.be/crmTnB6Zwt8),
